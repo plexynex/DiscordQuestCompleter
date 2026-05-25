@@ -1,7 +1,3 @@
-Berikut adalah format README yang lebih rapi untuk panduan tersebut:
-
----
-
 # 🎮 Discord Quest Completer (PC/Laptop)
 
 Panduan untuk menyelesaikan Quest Discord menggunakan Developer Tools.
