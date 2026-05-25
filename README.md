@@ -50,8 +50,7 @@ Panduan untuk menyelesaikan Quest Discord menggunakan Developer Tools.
 
 ### 4. Jalankan Kode di Console
 - Pilih tab **Console** (di bagian kanan atas)
-- Scroll ke bawah, lalu masukkan seluruh kode dari file berikut:
-- 📥 **[Copy Kode Quest Completer](#Code)**
+- Scroll ke bawah, lalu masukkan seluruh kode berikut 📃 **[Copy Kode Quest Completer](#Code)**
 - Tekan **Enter** untuk menjalankan
 
 ---
@@ -61,9 +60,7 @@ Gunakan dengan bijak dan sesuai ketentuan Discord. Segala risiko ditanggung send
 
 ---
 
----
-
-## Code
+## Main Code
 ```js
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
@@ -234,3 +231,27 @@ if(quests.length === 0) {
 ```
 
 ---
+
+## settings.json (backup)
+```json
+{
+  "IS_MAXIMIZED": true,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 0,
+    "y": 0,
+    "width": 1024,
+    "height": 538
+  },
+  "BACKGROUND_COLOR": "#121214",
+  "audioSubsystem": "experimental",
+  "offloadAdmControls": true,
+  "enableHardwareAcceleration": true,
+  "OPTIN_OPTIONAL_UPDATES": true,
+  "chromiumSwitches": {},
+  "OPEN_ON_STARTUP": false,
+  "openH264Enabled": true,
+  "asyncVideoInputDeviceInit": true,
+  "USE_RUST_BSPATCH": true
+}
+```
