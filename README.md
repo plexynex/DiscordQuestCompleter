@@ -50,7 +50,7 @@ Panduan untuk menyelesaikan Quest Discord menggunakan Developer Tools.
 
 ### 4. Jalankan Kode di Console
 - Pilih tab **Console** (di bagian kanan atas)
-- Scroll ke bawah, lalu masukkan seluruh kode berikut 📃 **[Copy Kode Quest Completer](#MainCode (UPDATE V1.1))**
+- Scroll ke bawah, lalu masukkan seluruh kode berikut 📃 **[Copy Kode Quest Completer](#MainCodeUPDATEV1.1)**
 - Tekan **Enter** untuk menjalankan
 
 ---
